@@ -1,3 +1,18 @@
+
+Install GO langauge 
+
+Windows on cmd run 
+
+C:\Users\Thomas>go get github.com/timpalpant/go-iex/pcap2csv
+C:\Users\Thomas>pcap2csv <D:\IEX_TOPS\sample.pcap> D:\sampledaily.csv
+
+
+
+
+
+
+
+
 # go-iex
 A Go library for accessing the IEX Developer API.
 
